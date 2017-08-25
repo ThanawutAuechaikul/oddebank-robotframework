@@ -4,7 +4,7 @@ Library           Selenium2Library
 *** Variables ***
 ${SERVER}       52.221.213.168:8080
 ${APP URL}      http://${SERVER}/app
-${TIMEOUT}      10
+${TIMEOUT}      60
 
 *** Test Cases *** 
 Show account summary detail
