@@ -1,5 +1,5 @@
 *** Settings ***
-Resource          resource.robot
+Resource          resource/resource.robot
 
 *** Test Cases *** 
 We should see pie chart redered.

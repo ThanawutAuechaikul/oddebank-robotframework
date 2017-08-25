@@ -1,5 +1,5 @@
 *** Settings ***
-Resource          resource.robot
+Resource          resource/resource.robot
 
 *** Test Cases ***
 Validate Account Summary section
