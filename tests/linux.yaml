@@ -1,0 +1,4 @@
+chrome_binary: /usr/bin/google-chrome
+chrome_options:
+  - --headless
+  - --disable-gpu
